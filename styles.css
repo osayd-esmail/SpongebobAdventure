@@ -1,0 +1,41 @@
+#huge {
+  width: 1000px;
+  height: 700px;
+}
+
+body {
+  background-color: rgb(176, 212, 243);
+}
+.pineapple {
+  background-color: rgb(255, 201, 102);
+}
+button {
+  font-family: cursive;
+  background-color: rgb(95, 215, 255);
+}
+
+button:hover {
+  background-color: rgba(48, 48, 199, 0.76);
+  color: azure;
+}
+
+h1 {
+  font-family: cursive;
+}
+
+p {
+  font-family: fantasy;
+}
+
+a img:hover {
+  border: rgba(48, 48, 199, 0.76);
+  border-radius: 25px;
+}
+
+.largeImg {
+  width: 800px;
+}
+
+a {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
